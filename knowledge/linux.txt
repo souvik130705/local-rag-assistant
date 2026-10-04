@@ -1,0 +1,21 @@
+Linux File Commands
+
+To create a directory:
+
+mkdir project
+
+To create an empty file:
+
+touch input.txt
+
+To display the contents of a file:
+
+cat input.txt
+
+To delete a file:
+
+rm input.txt
+
+To delete a directory and its contents:
+
+rm -r project
